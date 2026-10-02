@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("Ma Win Sandar Moe");
 		System.out.println("Khin Sandar Win");
 		System.out.println("Ma Khing");
+		System.out.println("Khing  Khing");
 	}
 
 }
